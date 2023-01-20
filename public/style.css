@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+body{
+   margin: 0;
+   background-color: azure; 
+   background-color: #f3effa;
+   height: 100vh;
+background-image: url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M20 20.5V18H0v-2h20v-2H0v-2h20v-2H0V8h20V6H0V4h20V2H0V0h22v20h2V0h2v20h2V0h2v20h2V0h2v20h2V0h2v20h2v2H20v-1.5zM0 20h2v20H0V20zm4 0h2v20H4V20zm4 0h2v20H8V20zm4 0h2v20h-2V20zm4 0h2v20h-2V20zm4 4h20v2H20v-2zm0 4h20v2H20v-2zm0 4h20v2H20v-2zm0 4h20v2H20v-2z' fill='%23da60b1' fill-opacity='0.41' fill-rule='evenodd'/%3E%3C/svg%3E");
+}
+
+.input-box{ 
+    height: 5rem;
+    display: block;
+    width: 30rem;
+    margin: auto;
+    margin-top: 3rem;
+    font-size: 2.5rem;
+    margin-bottom: 3rem;
+    
+} 
+
+li{
+    font-size: 3rem;
+    list-style: none;
+    text-align: center;
+    margin-bottom: 1.2rem;
+    text-shadow: 2px 5px 22px;
+    font-family: 'Roboto Mono', monospace;
+
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    border: brown;
+    text-decoration-line: underline;
+}
